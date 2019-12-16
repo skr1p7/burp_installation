@@ -89,4 +89,4 @@ Go to the **Proxy** tab and click on **Options** and check the button in front o
 
 As this is a Google Code-In task, let's target (https://codein.withgoogle.com) in the URL bar of our browser and come back to BurpSuite and click on **Intercept** tab, here's what we've got!
 
-![intercept](!img/intercept.png)
+![intercept](img/intercept.png)
